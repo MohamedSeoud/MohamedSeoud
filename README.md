@@ -27,7 +27,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Microsoft Visual Studio Code](https://img.shields.io/badge/-Microsoft%20Visual%20Studio-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MS Sql Server](https://img.shields.io/badge/-MS-Sql-Server-05122A?style=flat&logo=MS%20Sql%20Server)&nbsp;
 ![C#](https://img.shields.io/badge/-C#%20-05122A?style=flat&logo=C#)&nbsp;
 
 
@@ -35,5 +34,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+      <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
 </a>
